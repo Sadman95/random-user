@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "gender": "Male",
+        "name": "Test",
+        "contact": 12345,
+        "address": "test address",
+        "photoUrl": "https://cdn.iconscout.com/icon/free/png-256/avatar-370-456322.png"
+    },
+    {
+        "id": 2,
+        "gender": "Male",
+        "name": "John Doe",
+        "contact": 123456,
+        "address": "123 street",
+        "photoUrl": "https://img.freepik.com/premium-vector/portrait-caucasian-woman-avatar-female-person-vector-icon-adult-flat-style-headshot_605517-26.jpg?w=2000"
+    },
+    {
+        "id": 3,
+        "gender": "Female",
+        "name": "Sokina Begum",
+        "contact": 1234567,
+        "address": "123 bangladesh",
+        "photoUrl": "https://img.freepik.com/premium-vector/portrait-caucasian-woman-avatar-female-person-vector-icon-adult-flat-style-headshot_605517-26.jpg?w=2000"
+    },
+    {
+        "id": 4,
+        "gender": "Male",
+        "name": "Kuddus",
+        "contact": 12345678,
+        "address": "123 bangladesh",
+        "photoUrl": "https://cdn.iconscout.com/icon/free/png-256/avatar-370-456322.png"
+    },
+    {
+        "id": 5,
+        "gender": "Male",
+        "name": "Jasim",
+        "contact": 1234,
+        "address": "123 kocukhet",
+        "photoUrl": "https://png.pngtree.com/png-vector/20220817/ourmid/pngtree-man-avatar-with-circle-frame-vector-ilustration-png-image_6110328.png"
+    }
+]
